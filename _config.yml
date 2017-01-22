@@ -23,6 +23,7 @@ twitter_username: danbearl
 github_username:  danbearl
 
 # Build settings
+destination: /var/www/html
 markdown: kramdown
 theme: minima
 gems:
