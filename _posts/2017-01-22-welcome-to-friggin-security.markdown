@@ -1,4 +1,8 @@
-###Welcome
+---
+layout: post
+title: Welcome to Friggin' Security
+---
+### Welcome
 
 This is my first post, and really just a test to make sure I have this thing set up correctly. But, since I'm here, I'd like to say a few things about what I intend for this blog.
 
